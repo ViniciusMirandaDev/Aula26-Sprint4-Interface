@@ -1,0 +1,13 @@
+C:\Users\amand\Desktop\Projeto senai\Aula26-Sprint4-Interface\obj\Debug\netcoreapp3.1\Aula26-Sprint4-Interface.csprojAssemblyReference.cache
+C:\Users\amand\Desktop\Projeto senai\Aula26-Sprint4-Interface\obj\Debug\netcoreapp3.1\Aula26-Sprint4-Interface.csproj.CoreCompileInputs.cache
+C:\Users\amand\Desktop\Projeto senai\Aula26-Sprint4-Interface\obj\Debug\netcoreapp3.1\Aula26-Sprint4-Interface.AssemblyInfoInputs.cache
+C:\Users\amand\Desktop\Projeto senai\Aula26-Sprint4-Interface\obj\Debug\netcoreapp3.1\Aula26-Sprint4-Interface.AssemblyInfo.cs
+C:\Users\amand\Desktop\Projeto senai\Aula26-Sprint4-Interface\bin\Debug\netcoreapp3.1\Aula26-Sprint4-Interface.exe
+C:\Users\amand\Desktop\Projeto senai\Aula26-Sprint4-Interface\bin\Debug\netcoreapp3.1\Aula26-Sprint4-Interface.deps.json
+C:\Users\amand\Desktop\Projeto senai\Aula26-Sprint4-Interface\bin\Debug\netcoreapp3.1\Aula26-Sprint4-Interface.runtimeconfig.json
+C:\Users\amand\Desktop\Projeto senai\Aula26-Sprint4-Interface\bin\Debug\netcoreapp3.1\Aula26-Sprint4-Interface.runtimeconfig.dev.json
+C:\Users\amand\Desktop\Projeto senai\Aula26-Sprint4-Interface\bin\Debug\netcoreapp3.1\Aula26-Sprint4-Interface.dll
+C:\Users\amand\Desktop\Projeto senai\Aula26-Sprint4-Interface\bin\Debug\netcoreapp3.1\Aula26-Sprint4-Interface.pdb
+C:\Users\amand\Desktop\Projeto senai\Aula26-Sprint4-Interface\obj\Debug\netcoreapp3.1\Aula26-Sprint4-Interface.dll
+C:\Users\amand\Desktop\Projeto senai\Aula26-Sprint4-Interface\obj\Debug\netcoreapp3.1\Aula26-Sprint4-Interface.pdb
+C:\Users\amand\Desktop\Projeto senai\Aula26-Sprint4-Interface\obj\Debug\netcoreapp3.1\Aula26-Sprint4-Interface.genruntimeconfig.cache
